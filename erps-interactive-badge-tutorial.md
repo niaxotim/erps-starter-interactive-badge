@@ -149,7 +149,7 @@ To choose how many milliseconds to wait, click the down-arrow and enter a number
 
 You'll also need to animate your sad face. The easiest way to do this is to duplicate the blocks you've just created. Right-click on a block to duplicate it. Note that the PXT editor just duplicates one block at a time (not multiple blocks like Scratch.)  
 
-You can then drag these blocks into your ``||input:on button B||`` block. This is how your code should look:
+You can then drag these blocks into your ``||input:on button B||`` block.
 
 
 #### ~ tutorialhint
